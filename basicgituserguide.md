@@ -2,8 +2,8 @@
 ### created on Nov 1st 2018, last edited Nov 1st 2018
 
 Resources:
-https://guides.github.com/introduction/git-handbook/
-https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/#-creating-a-readme-file-to-describe-the-repository
+..* https://guides.github.com/introduction/git-handbook/
+..* https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/#-creating-a-readme-file-to-describe-the-repository
 
 
 ## Installing Git
@@ -21,8 +21,6 @@ On Arch/Manjaro/Antergos and other Arch derivates:
 
 Check the GitHub help page for this:
 
-https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
-
-
+..* https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
 
