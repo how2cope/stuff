@@ -7,4 +7,4 @@ poep
 
 _poeppoeppoeppoep_
 
-[terry](https://github.com/how2cope/stuff/blob/master/terry.gif)
+![terry](https://github.com/how2cope/stuff/blob/master/terry.gif)
